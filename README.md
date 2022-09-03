@@ -1,1 +1,2 @@
-g
+GIT- Is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to track changes in the source code, enabling multiple developers to work together. It is light weight, fast and easy to use. Git is distributed and convinient management tool for development team in helping them release products on time with less stress.
+VERSION CONTROL- Also called 'source control', tracks and manages changes whenever we write new codes or take further actions while writing
